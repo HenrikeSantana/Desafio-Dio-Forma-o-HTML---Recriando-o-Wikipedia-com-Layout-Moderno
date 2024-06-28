@@ -1,1 +1,1 @@
-Desadio Dio da formação HTML onde utilizando as tags html aprendidas e um codigo CSS fornecido como base, desenvolvi uma pagina de wikipedia sobre o assunto RPG, copiando conteudo da pagina original e acrescentando um pouco de meu próprio conhecimento.
+Desafio Dio da formação HTML onde utilizando as tags html aprendidas e um código CSS fornecido como base, desenvolvi uma pagina de Wikipedia sobre o assunto RPG, copiando conteúdo da pagina original e acrescentando um pouco de meu próprio conhecimento.
